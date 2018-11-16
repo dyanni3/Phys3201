@@ -1,5 +1,6 @@
 # Phys3201
-assignments and other content
+assignments and other content for prof Dan Goldman's classical mechanics 1 class Fall 2018.
 
-#Why a repo?
-Just made this because canvas is giving me issues about uploading your homework assignments as pdf. So it's easier to just put a link to Github
+Course based on the textbook [Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119).
+
+
